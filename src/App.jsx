@@ -1,8 +1,14 @@
+import Toggletext from "../components/Toggletext/Toggletext"
+
+
+
 
 
 function App() {
 
-  return <></>
+  return <>
+  <Toggletext/>
+  </>
   
 }
 

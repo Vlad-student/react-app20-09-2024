@@ -1,15 +1,13 @@
-import Toggletext from "../components/Toggletext/Toggletext"
-
-
+import Taskslist from "../components/Tasks-list/Taskslist"
 
 
 
 function App() {
 
-  return <>
-  <Toggletext/>
+  return(<>
+ <Taskslist/>
   </>
-  
+  ) 
 }
 
 export default App
